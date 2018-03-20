@@ -2,7 +2,7 @@ Raj-Hackathon
 
 Login Details
 TOURIST:-
-vaibhavvijay9@gmail.com (username)
+manji.sidhu@gmail.com (username)
 12345678 (password)
 
 Other Details
